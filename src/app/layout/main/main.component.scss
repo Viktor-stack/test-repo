@@ -1,0 +1,16 @@
+.block {
+  width: 1000px;
+  height: 500px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 25px;
+  box-shadow: 16px 23px 38px 1px rgba(46, 65, 81, 0.34);
+}

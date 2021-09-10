@@ -1,0 +1,6653 @@
+{
+  "hits": [
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75000"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": false,
+      "locale_names": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8546,
+        "lng": 2.34771
+      },
+      "objectID": "af9599b85ad97dcead64bbb7bc500445",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75000",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75010"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 10e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8718,
+        "lng": 2.35779
+      },
+      "objectID": "cad54663bb051958de8fda238a837dd4",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75010",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 10e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75011"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 11e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8586,
+        "lng": 2.37943
+      },
+      "objectID": "1ad496ba1de835d13d08a2c8e1851c85",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75011",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 11e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75012"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 12e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8409,
+        "lng": 2.38812
+      },
+      "objectID": "064158810eb3fb7559326c9f0d3356be",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75012",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 12e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75013"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 13e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8324,
+        "lng": 2.35552
+      },
+      "objectID": "6f0c8c49c0767edd73b4ae82f9bd7fb8",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75013",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 13e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75014"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 14e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8331,
+        "lng": 2.32693
+      },
+      "objectID": "aa48ad155b6a3395fb0a7e1a0cd335ec",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75014",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 14e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75015"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 15e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8415,
+        "lng": 2.30017
+      },
+      "objectID": "6a43cf8bbf3de30878c24b285118c89c",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75015",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 15e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75016",
+        "75116"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 16e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8638,
+        "lng": 2.27667
+      },
+      "objectID": "df1e4f42ec2325a784939bbb215db4c0",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75016",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "75116",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 16e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75017"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 17e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8916,
+        "lng": 2.31846
+      },
+      "objectID": "2b6ce9caa7209ef1852cd9534ee73321",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75017",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 17e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Ukraine",
+        "ru": "Украина",
+        "pt": "Ucrânia",
+        "en": "Ukraine",
+        "it": "Ucraina",
+        "fr": "Ukraine",
+        "hu": "Ukrajna",
+        "es": "Ucrania",
+        "zh": "乌克兰",
+        "ar": "أوكرانيا",
+        "default": "Україна",
+        "ja": "ウクライナ",
+        "pl": "Ukraina",
+        "ro": "Ucraina",
+        "nl": "Oekraïne"
+      },
+      "is_country": false,
+      "is_highway": false,
+      "importance": 19,
+      "_tags": [
+        "place/village",
+        "country/ua",
+        "city",
+        "source/osm",
+        "place"
+      ],
+      "postcode": [
+        "68420"
+      ],
+      "county": {
+        "de": [
+          "Rajon Arzys"
+        ],
+        "default": [
+          "Арцизький район"
+        ],
+        "ru": [
+          "Арцизский район"
+        ],
+        "en": [
+          "Artsyz Raion"
+        ],
+        "pl": [
+          "Rejon arcyski"
+        ],
+        "ro": [
+          "Raionul Arciz"
+        ]
+      },
+      "population": 1797,
+      "country_code": "ua",
+      "is_city": true,
+      "is_popular": false,
+      "administrative": [
+        "Одеська область"
+      ],
+      "admin_level": 15,
+      "is_suburb": false,
+      "locale_names": {
+        "de": [
+          "Wesselyj Kut/Paris"
+        ],
+        "default": [
+          "Веселий Кут"
+        ],
+        "ru": [
+          "Весёлый Кут"
+        ],
+        "en": [
+          "Veselyi Kut"
+        ]
+      },
+      "_geoloc": {
+        "lat": 46.0551,
+        "lng": 29.2884
+      },
+      "objectID": "1622877_337692283",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Украина",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "Ucrânia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "en": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "fr": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Ukrajna",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Ucrania",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "乌克兰",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "أوكرانيا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "Україна",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "ウクライナ",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Ukraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Oekraïne",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "postcode": [
+          {
+            "value": "68420",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "de": [
+            {
+              "value": "Rajon Arzys",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "Арцизький район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Арцизский район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Artsyz Raion",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Rejon arcyski",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "Raionul Arciz",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Одеська область",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "de": [
+            {
+              "value": "Wesselyj Kut/<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "default": [
+            {
+              "value": "Веселий Кут",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Весёлый Кут",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Veselyi Kut",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Ukraine",
+        "ru": "Украина",
+        "pt": "Ucrânia",
+        "en": "Ukraine",
+        "it": "Ucraina",
+        "fr": "Ukraine",
+        "hu": "Ukrajna",
+        "es": "Ucrania",
+        "zh": "乌克兰",
+        "ar": "أوكرانيا",
+        "default": "Україна",
+        "ja": "ウクライナ",
+        "pl": "Ukraina",
+        "ro": "Ucraina",
+        "nl": "Oekraïne"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Oblast Donezk"
+        ],
+        "ru": [
+          "Донецкая область"
+        ],
+        "pt": [
+          "Oblast de Donetsk"
+        ],
+        "en": [
+          "Donetsk Oblast"
+        ],
+        "it": [
+          "Oblast' di Donec'k"
+        ],
+        "fr": [
+          "Oblast de Donetsk"
+        ],
+        "hu": [
+          "Donecki terület"
+        ],
+        "es": [
+          "Óblast de Donetsk"
+        ],
+        "zh": [
+          "顿涅茨克州"
+        ],
+        "ar": [
+          "دونيتسك أوبلاست"
+        ],
+        "default": [
+          "Донецька область"
+        ],
+        "ja": [
+          "ドネツィク州"
+        ],
+        "pl": [
+          "Obwód doniecki"
+        ],
+        "ro": [
+          "Regiunea Donețk"
+        ],
+        "nl": [
+          "Oblast Donetsk"
+        ]
+      },
+      "is_highway": true,
+      "importance": 26,
+      "_tags": [
+        "highway",
+        "highway/residential",
+        "country/ua",
+        "address",
+        "source/osm"
+      ],
+      "postcode": [
+        "87500-87590"
+      ],
+      "county": {
+        "default": [
+          "Кальміуський район"
+        ],
+        "ru": [
+          "Кальмиусский район"
+        ],
+        "en": [
+          "Kalmiuskyi District"
+        ]
+      },
+      "population": 4275935,
+      "country_code": "ua",
+      "is_city": false,
+      "is_popular": false,
+      "administrative": [
+        "Донецька область"
+      ],
+      "admin_level": 15,
+      "suburb": [
+        "Кальміуський район"
+      ],
+      "village": [
+        "Маріуполь"
+      ],
+      "is_suburb": false,
+      "locale_names": {
+        "default": [
+          "Паризької комуни вулиця"
+        ],
+        "ru": [
+          "улица Парижской коммуны"
+        ],
+        "en": [
+          "Paris Commune Street"
+        ]
+      },
+      "_geoloc": {
+        "lat": 47.1371,
+        "lng": 37.5593
+      },
+      "objectID": "103807689_95946229",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Украина",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "Ucrânia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "en": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "fr": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Ukrajna",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Ucrania",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "乌克兰",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "أوكرانيا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "Україна",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "ウクライナ",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Ukraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Oekraïne",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "Oblast Donezk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Донецкая область",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "Oblast de Donetsk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Donetsk Oblast",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "it": [
+            {
+              "value": "Oblast' di Donec'k",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "fr": [
+            {
+              "value": "Oblast de Donetsk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Donecki terület",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "Óblast de Donetsk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "zh": [
+            {
+              "value": "顿涅茨克州",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "دونيتسك أوبلاست",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "Донецька область",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "ドネツィク州",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Obwód doniecki",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "Regiunea Donețk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "nl": [
+            {
+              "value": "Oblast Donetsk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "87500-87590",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "Кальміуський район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Кальмиусский район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Kalmiuskyi District",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Донецька область",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "suburb": [
+          {
+            "value": "Кальміуський район",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "village": [
+          {
+            "value": "Маріуполь",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "Паризької комуни вулиця",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "улица Парижской коммуны",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em> Commune Street",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Ukraine",
+        "ru": "Украина",
+        "pt": "Ucrânia",
+        "en": "Ukraine",
+        "it": "Ucraina",
+        "fr": "Ukraine",
+        "hu": "Ukrajna",
+        "es": "Ucrania",
+        "zh": "乌克兰",
+        "ar": "أوكرانيا",
+        "default": "Україна",
+        "ja": "ウクライナ",
+        "pl": "Ukraina",
+        "ro": "Ucraina",
+        "nl": "Oekraïne"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Henitschesk"
+        ],
+        "default": [
+          "Генічеськ"
+        ],
+        "ru": [
+          "Геническ"
+        ],
+        "en": [
+          "Henichesk"
+        ],
+        "fr": [
+          "Henitchesk"
+        ],
+        "pl": [
+          "Heniczesk"
+        ]
+      },
+      "is_highway": true,
+      "importance": 26,
+      "_tags": [
+        "highway",
+        "highway/residential",
+        "country/ua",
+        "address",
+        "source/osm"
+      ],
+      "postcode": [
+        "75500-75509"
+      ],
+      "county": {
+        "de": [
+          "Rajon Henitschesk"
+        ],
+        "default": [
+          "Генічеський район"
+        ],
+        "ru": [
+          "Генический район"
+        ],
+        "en": [
+          "Henichesk Raion"
+        ],
+        "pl": [
+          "Rejon geniczeski"
+        ]
+      },
+      "population": 20487,
+      "country_code": "ua",
+      "is_city": false,
+      "is_popular": false,
+      "administrative": [
+        "Херсонська область"
+      ],
+      "admin_level": 15,
+      "suburb": [
+        "Північний"
+      ],
+      "is_suburb": false,
+      "locale_names": {
+        "default": [
+          "Паризької Комуни вулиця"
+        ],
+        "ru": [
+          "Парижской Коммуны улица"
+        ],
+        "en": [
+          "Paris Commune street"
+        ]
+      },
+      "_geoloc": {
+        "lat": 46.182,
+        "lng": 34.8066
+      },
+      "objectID": "179049791_418595924",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Украина",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "Ucrânia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "en": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "fr": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Ukrajna",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Ucrania",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "乌克兰",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "أوكرانيا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "Україна",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "ウクライナ",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Ukraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Oekraïne",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "Henitschesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "Генічеськ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Геническ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Henichesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "fr": [
+            {
+              "value": "Henitchesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Heniczesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75500-75509",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "de": [
+            {
+              "value": "Rajon Henitschesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "Генічеський район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Генический район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Henichesk Raion",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Rejon geniczeski",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Херсонська область",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "suburb": [
+          {
+            "value": "Північний",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "Паризької Комуни вулиця",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Парижской Коммуны улица",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em> Commune street",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Ukraine",
+        "ru": "Украина",
+        "pt": "Ucrânia",
+        "en": "Ukraine",
+        "it": "Ucraina",
+        "fr": "Ukraine",
+        "hu": "Ukrajna",
+        "es": "Ucrania",
+        "zh": "乌克兰",
+        "ar": "أوكرانيا",
+        "default": "Україна",
+        "ja": "ウクライナ",
+        "pl": "Ukraina",
+        "ro": "Ucraina",
+        "nl": "Oekraïne"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Henitschesk"
+        ],
+        "default": [
+          "Генічеськ"
+        ],
+        "ru": [
+          "Геническ"
+        ],
+        "en": [
+          "Henichesk"
+        ],
+        "fr": [
+          "Henitchesk"
+        ],
+        "pl": [
+          "Heniczesk"
+        ]
+      },
+      "is_highway": true,
+      "importance": 26,
+      "_tags": [
+        "highway",
+        "highway/residential",
+        "country/ua",
+        "address",
+        "source/osm"
+      ],
+      "postcode": [
+        "75500-75509"
+      ],
+      "county": {
+        "de": [
+          "Rajon Henitschesk"
+        ],
+        "default": [
+          "Генічеський район"
+        ],
+        "ru": [
+          "Генический район"
+        ],
+        "en": [
+          "Henichesk Raion"
+        ],
+        "pl": [
+          "Rejon geniczeski"
+        ]
+      },
+      "population": 20487,
+      "country_code": "ua",
+      "is_city": false,
+      "is_popular": false,
+      "administrative": [
+        "Херсонська область"
+      ],
+      "admin_level": 15,
+      "suburb": [
+        "Північний"
+      ],
+      "is_suburb": false,
+      "locale_names": {
+        "default": [
+          "Паризької Комуни провулок"
+        ],
+        "ru": [
+          "Парижской Коммуны переулок"
+        ],
+        "en": [
+          "Paris Commune lane"
+        ]
+      },
+      "_geoloc": {
+        "lat": 46.1762,
+        "lng": 34.8088
+      },
+      "objectID": "147829843_266285469",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Украина",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "Ucrânia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "en": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "fr": {
+            "value": "Ukraine",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Ukrajna",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Ucrania",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "乌克兰",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "أوكرانيا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "Україна",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "ウクライナ",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Ukraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Ucraina",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Oekraïne",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "Henitschesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "Генічеськ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Геническ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Henichesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "fr": [
+            {
+              "value": "Henitchesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Heniczesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75500-75509",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "de": [
+            {
+              "value": "Rajon Henitschesk",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "Генічеський район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Генический район",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "Henichesk Raion",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Rejon geniczeski",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Херсонська область",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "suburb": [
+          {
+            "value": "Північний",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "Паризької Комуни провулок",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ru": [
+            {
+              "value": "Парижской Коммуны переулок",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em> Commune lane",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75018"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 18e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8923,
+        "lng": 2.34446
+      },
+      "objectID": "4cf8bf29b645d8b3732fe34fed1c5030",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75018",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 18e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75019"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 19e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8829,
+        "lng": 2.38204
+      },
+      "objectID": "e4337a76f07594ae20d41d20918145ca",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75019",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 19e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75001"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 1er Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8601,
+        "lng": 2.34136
+      },
+      "objectID": "80ccb42e3559d3697eaad406753fc145",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75001",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 1er Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75020"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 20e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8651,
+        "lng": 2.39911
+      },
+      "objectID": "7ec2132c215323cfe01b1d6353281be3",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75020",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 20e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75002"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 2e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8668,
+        "lng": 2.34052
+      },
+      "objectID": "203f408f68fa11243f01a56c87945f74",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75002",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 2e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75003"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 3e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8638,
+        "lng": 2.36173
+      },
+      "objectID": "ebaa74dc0366c04f229ce8c9d0798aff",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "ru": [
+            {
+              "value": "Париж",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pt": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "en": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "it": [
+            {
+              "value": "Parigi",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "hu": [
+            {
+              "value": "Párizs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "es": [
+            {
+              "value": "<em>París</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "zh": [
+            {
+              "value": "巴黎",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ar": [
+            {
+              "value": "باريس",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            },
+            {
+              "value": "Lutèce",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ja": [
+            {
+              "value": "パリ",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "pl": [
+            {
+              "value": "Paryż",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "ro": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ],
+          "nl": [
+            {
+              "value": "Parijs",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "postcode": [
+          {
+            "value": "75003",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "county": {
+          "default": [
+            {
+              "value": "<em>Paris</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        },
+        "administrative": [
+          {
+            "value": "Île-de-France",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "locale_names": {
+          "default": [
+            {
+              "value": "<em>Paris</em> 3e Arrondissement",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "paris"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "country": {
+        "de": "Frankreich",
+        "ru": "Франция",
+        "pt": "França",
+        "it": "Francia",
+        "hu": "Franciaország",
+        "es": "Francia",
+        "zh": "法国",
+        "ar": "فرنسا",
+        "default": "France",
+        "ja": "フランス",
+        "pl": "Francja",
+        "ro": "Franța",
+        "nl": "Frankrijk"
+      },
+      "is_country": false,
+      "city": {
+        "de": [
+          "Paris"
+        ],
+        "ru": [
+          "Париж"
+        ],
+        "pt": [
+          "Paris"
+        ],
+        "en": [
+          "Paris"
+        ],
+        "it": [
+          "Parigi"
+        ],
+        "hu": [
+          "Párizs"
+        ],
+        "es": [
+          "París"
+        ],
+        "zh": [
+          "巴黎"
+        ],
+        "ar": [
+          "باريس"
+        ],
+        "default": [
+          "Paris",
+          "Lutèce"
+        ],
+        "ja": [
+          "パリ"
+        ],
+        "pl": [
+          "Paryż"
+        ],
+        "ro": [
+          "Paris"
+        ],
+        "nl": [
+          "Parijs"
+        ]
+      },
+      "is_highway": false,
+      "importance": 15,
+      "_tags": [
+        "capital",
+        "boundary/administrative",
+        "city",
+        "place/city",
+        "country/fr",
+        "source/pristine"
+      ],
+      "postcode": [
+        "75004"
+      ],
+      "county": {
+        "default": [
+          "Paris"
+        ]
+      },
+      "population": 2220445,
+      "country_code": "fr",
+      "is_city": true,
+      "is_popular": true,
+      "administrative": [
+        "Île-de-France"
+      ],
+      "admin_level": 2,
+      "district": "Paris",
+      "is_suburb": true,
+      "locale_names": {
+        "default": [
+          "Paris 4e Arrondissement"
+        ]
+      },
+      "_geoloc": {
+        "lat": 48.8566,
+        "lng": 2.35178
+      },
+      "objectID": "c1ccf2aeba9a4507a27b16bfb29f1c9d",
+      "_highlightResult": {
+        "country": {
+          "de": {
+            "value": "Frankreich",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ru": {
+            "value": "Франция",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pt": {
+            "value": "França",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "it": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "hu": {
+            "value": "Franciaország",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "es": {
+            "value": "Francia",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "zh": {
+            "value": "法国",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ar": {
+            "value": "فرنسا",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "default": {
+            "value": "France",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ja": {
+            "value": "フランス",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pl": {
+            "value": "Francja",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "ro": {
+            "value": "Franța",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "nl": {
+            "value": "Frankrijk",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "city": {
+          "de": [
+            {
+              "value": "<em>Pari100 71296  100 71278  100    18   189k     48 --:--:-- --:--:-- --:--:--  189kue,"
+              matchedWords
+              ":["
+              paris
+              "]}],"
+              ru
+              ":[{"
+              value
+              ":"
+              Париж
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              pt
+              ":[{"
+              value
+              ":"
+              <em>Paris</em>
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":true,"
+              matchedWords
+              ":["
+              paris
+              "]}],"
+              en
+              ":[{"
+              value
+              ":"
+              <em>Paris</em>
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":true,"
+              matchedWords
+              ":["
+              paris
+              "]}],"
+              it
+              ":[{"
+              value
+              ":"
+              Parigi
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              hu
+              ":[{"
+              value
+              ":"
+              Párizs
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              es
+              ":[{"
+              value
+              ":"
+              <em>París</em>
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":true,"
+              matchedWords
+              ":["
+              paris
+              "]}],"
+              zh
+              ":[{"
+              value
+              ":"
+              巴黎
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              ar
+              ":[{"
+              value
+              ":"
+              باريس
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              default
+              ":[{"
+              value
+              ":"
+              <em>Paris</em>
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":true,"
+              matchedWords
+              ":["
+              paris
+              "]},{"
+              value
+              ":"
+              Lutèce
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              ja
+              ":[{"
+              value
+              ":"
+              パリ
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              pl
+              ":[{"
+              value
+              ":"
+              Paryż
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              ro
+              ":[{"
+              value
+              ":"
+              <em>Paris</em>
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":true,"
+              matchedWords
+              ":["
+              paris
+              "]}],"
+              nl
+              ":[{"
+              value
+              ":"
+              Parijs
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}]},"
+              postcode
+              ":[{"
+              value
+              ":"
+              75004
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              county
+              ":{"
+              default
+              ":[{"
+              value
+              ":"
+              <em>Paris</em>
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":true,"
+              matchedWords
+              ":["
+              paris
+              "]}]},"
+              administrative
+              ":[{"
+              value
+              ":"
+              Île-de-France
+              ","
+              matchLevel
+              ":"
+              none
+              ","
+              matchedWords
+              ":[]}],"
+              locale_names
+              ":{"
+              default
+              ":[{"
+              value
+              ":"
+              <em>Paris</em>
+              4e
+              Arrondissement
+              ","
+              matchLevel
+              ":"
+              full
+              ","
+              fullyHighlighted
+              ":false,"
+              matchedWords
+              ":["
+              paris
+              "]}]}}}],"
+              nbHits
+              ":20,"
+              processingTimeMS
+              ":12,"
+              query
+              ":"
+              Paris
+              ","
+              params
+              ":"
+              query=Paris
+              ","
+              degradedQuery
+              ":false}

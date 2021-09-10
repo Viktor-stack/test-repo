@@ -1,0 +1,81 @@
+.form__inner {
+  border-right: 1px solid black;
+  width: 500px;
+  height: 100%;
+  padding: 25px;
+
+  .form {
+    .form__title {
+      padding-bottom: 50px;
+      font-weight: normal;
+      font-size: 40px;
+    }
+
+    .form__control-checkbox {
+      display: flex;
+      align-items: center;
+      padding-bottom: 25px;
+
+      input[type=checkbox] {
+        width: 20px;
+        height: 20px;
+        margin: 0 15px 0 0;
+      }
+    }
+
+    .form_control {
+      min-width: 100%;
+      height: 59px;
+      margin-bottom: 15px;
+      label {
+        height: 100%;
+        font-size: 20px;
+      }
+
+      input {
+        width: 100%;
+        height: 35px;
+      }
+
+      input[type=email] {
+        padding: 5px;
+        border: 1px solid black;
+        border-radius: 5px;
+
+        &.invalid {
+          border: 1px solid red;
+        }
+      }
+
+      input[type=password] {
+        padding: 5px;
+        border: 1px solid black;
+        border-radius: 5px;
+
+        &.invalid {
+          border: 1px solid red;
+        }
+      }
+
+
+    }
+
+    .form-button {
+      position: relative;
+    }
+
+    button {
+      position: absolute;
+      right: 0;
+      width: 200px;
+      height: 60px;
+      border-radius: 10px;
+      font-size: 25px;
+    }
+  }
+}
+
+.halper-text.red-text {
+  font-size: 15px;
+  color: red;
+}

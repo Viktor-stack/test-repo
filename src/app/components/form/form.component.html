@@ -1,0 +1,55 @@
+<div class="form__inner">
+  <form class="form" [formGroup]="form" (ngSubmit)="formSubmit()">
+    <div class="form__title">
+      Register
+    </div>
+    <div class="form_control">
+      <label for="email">
+        <input id="email" type="email" formControlName="email" placeholder="Email"
+               [ngClass]="{'invalid': form.get('email').invalid && form.get('email').touched}">
+        <span class="halper-text red-text"
+              *ngIf="form.get('email').invalid && form.get('email').touched"
+        >
+        <span *ngIf="form.get('email').errors['required']">Email is required</span>
+        <span *ngIf="form.get('email').errors['email']">Not a valid email address</span>
+      </span>
+      </label>
+    </div>
+    <div class="form_control">
+      <label for="password">
+        <input id="password" type="password" formControlName="password" suggested="new-password" placeholder="Password"
+               [ngClass]="{'invalid': form.get('password').invalid && form.get('password').touched}">
+        <span class="halper-text red-text"
+              *ngIf="form.get('password').invalid && form.get('password').touched"
+        >
+        <span *ngIf="form.get('password').errors['required']">Password is required</span>
+        <span *ngIf="form.get('password').errors['pattern']">Symbols cannot be duplicated in a row</span>
+      </span>
+      </label>
+    </div>
+    <div class="form_control">
+      <label for="passwordConfirm">
+        <input id="passwordConfirm" type="password" formControlName="confirmPassword" suggested="new-password"
+               placeholder="Confirm Password"
+               [ngClass]="{'invalid': form.get('confirmPassword').invalid && form.get('confirmPassword').touched}">
+        <span class="halper-text red-text"
+              *ngIf="form.get('confirmPassword').invalid && form.get('confirmPassword').touched"
+        >
+        <span *ngIf="form.get('confirmPassword').errors['required']">Password is required     </span>
+        <span class="halper-text red-text" *ngIf="form.hasError('notSame')">Confirmation does not match password</span>
+      </span>
+      </label>
+    </div>
+    <div class="form__control-checkbox">
+      <input id="checkbox" type="checkbox" formControlName="conditions">
+      <label for="checkbox">
+        I agree to Terms and Conditions
+      </label>
+    </div>
+    <div class="form-button">
+      <button [disabled]="form.invalid" type="submit">
+        Submit
+      </button>
+    </div>
+  </form>
+</div>
